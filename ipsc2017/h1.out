@@ -1,0 +1,4 @@
+push 5;input;print;jump 4
+push 5;input;push 0;-;print;jump 4
+jump 3
+push 5;input;dup;*;print;jump 4
